@@ -1,0 +1,104 @@
+********************************************************************************
+ADVANCED JAVA: CLASSES, OOP, ENUM
+********************************************************************************
+
+Abstraktni třídy a jejich dědění
+src/main/java/abstractclasses/MainAbstract.java
+
+--------------------------------------------------------------------------------
+Třída deklarovaná v třídě, třída deklarovaná v metodě
+src/main/java/classinclass/MainClsInCls.java
+
+--------------------------------------------------------------------------------
+Interface (rozhraní)
+src/main/java/interfaces/MainInterfaces.java
+
+--------------------------------------------------------------------------------
+Ukázky modifikátorů přístupu - bez spustitelného kódu - jen deklarace
+src/main/java/accessmodifier (package-nikoli class)
+
+--------------------------------------------------------------------------------
+Dědění tříd a overide metod
+src/main/java/classesinheritence/MainInheritence.java
+
+--------------------------------------------------------------------------------
+Ukazka kompozice. Třída drží instance jiných tříd - jen deklarace
+src/main/java/composition
+
+--------------------------------------------------------------------------------
+Ukazka konstruktoru tridy. Pretizeni, volani konstruktoru nadrizenych trid
+src/main/java/constructors
+
+--------------------------------------------------------------------------------
+Ukazka prace s Enum
+src/main/java/enums/MainEnums.java
+
+--------------------------------------------------------------------------------
+
+Ukázka definice (sealed class) Třída SealedMainClass je deklarována jako sealed
+Proto z ní nelze dědit
+src/main/java/sealedclass
+
+********************************************************************************
+DVANCED JAVA: EXCEPTIONS, ANNOTATIONS, BASICS OF REFLECTIONS
+********************************************************************************
+
+Ukazka prace s exceptions
+src/main/java/exceptions/MainExceptions.java
+
+--------------------------------------------------------------------------------
+
+V této složce jsou ukázky deklarace anotací. Použití je uvedeno u reflections
+src/main/java/annotations
+
+*******************************************************************************
+ADVANCED JAVA: COLLECTIONS
+********************************************************************************
+
+Ukazky prace s collections
+src/main/java/colections/MainCollections.java
+
+*******************************************************************************
+ADDVANCED JAVA: GENERIC TYPES
+*******************************************************************************
+
+Generika
+src/main/java/generisc/MainGenerics.java
+
+*******************************************************************************
+ADVANCED JAVA: I/O OPERATIONS
+*******************************************************************************
+
+Ukazka Java IO - vstupne vystupni operace
+src/main/java/javaio/MainJavaIO.java
+
+--------------------------------------------------------------------------------
+
+Serializace objektu do souboru a deserializace ze souboru
+src/main/java/serialized/MainSerialization.java
+
+*******************************************************************************
+ADVANCED JAVA: CONCURRENT AND PARALLEL PROGRAMMING
+*******************************************************************************
+
+Ukazka prace s Threads
+src/main/java/threads/MainThreads.java
+
+--------------------------------------------------------------------------------
+
+Ukazka synchronnizace vlaken
+src/main/java/threadsynchronize/MainSynchron.java
+
+*******************************************************************************
+ADVANCED JAVA: NEW THINGS IN JAVA 8 AND 9
+*******************************************************************************
+
+Ukázka funkcionálního programování
+src/main/java/functional/MainFunctional.java
+
+--------------------------------------------------------------------------------
+
+Ukazka prace se stream api
+src/main/java/streamapi/MainStreamApi.java
+
+--------------------------------------------------------------------------------
